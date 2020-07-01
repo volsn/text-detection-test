@@ -1,2 +1,8 @@
 .DS_Store
+.ipynb_checkpoints/
 source/
+images/private.*
+
+# EAST model weights
+frozen_east_text_detection.pb 
+
